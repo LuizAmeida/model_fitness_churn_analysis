@@ -7,7 +7,7 @@
 
 > **Sprint 13 — Projeto TripleTen**  
 > **Autor:** Luiz Almeida  
-> **LinkedIn:** [linkedin.com/in/luizmarques84](https://linkedin.com/in/luizmarques84) | **GitHub:** [github.com/LuizAlmeida](https://github.com/LuizAlmeida)
+> **LinkedIn:** [linkedin.com/in/luizmarques84](https://linkedin.com/in/luizmarques84) | **GitHub:** [github.com/LuizAlmeida](https://github.com/LuizAmeida)
 
 ---
 
@@ -107,5 +107,4 @@ Após a padronização dos dados com `StandardScaler`, executamos o algoritmo **
    cd model-fitness-churn-analysis
    ````
 
-**Autor**: Luiz Almeida
 - Projeto Sprint 13 do Bootcamp TripleTen de Análise de Dados
